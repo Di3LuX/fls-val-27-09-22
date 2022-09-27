@@ -1,8 +1,8 @@
 body {
- background: url(../IMG/Hellgate.jpg);
- background-size: cover;
- height: 10vh;
- background-repeat: no-repeat;
+  background: url(../IMG/Hellgate.jpg);
+  background-size: cover;
+  height: 10vh;
+  background-repeat: no-repeat;
 
 }
 
@@ -29,6 +29,6 @@ body {
 #candado {
   display: flex;
   margin-bottom: 1vh;
- justify-content: center;
- justify-items: center;
+  justify-content: center;
+  justify-items: center;
 }
