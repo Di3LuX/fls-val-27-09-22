@@ -1,0 +1,19 @@
+.head {
+  height: 15vh;
+}
+
+.login {
+  color: white;
+  background-color: darkred;
+  height: 40vh;
+  border-radius: 5%;
+}
+
+.buttons {
+  height: 5vh;
+}
+
+.login-txt {
+  height: 5vh;
+}
+
