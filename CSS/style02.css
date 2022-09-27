@@ -1,3 +1,23 @@
 .head {
-  background-color: antiquewhite;
+  color: black;
+  background: radial-gradient(cyan, navy);
+}
+
+#lft {
+  background: linear-gradient(90deg, navy, cyan);
+}
+
+#rgt {
+  background: linear-gradient(90deg, cyan, navy);
+}
+
+#navy{
+  background-color: navy;
+}
+
+#cyan {
+  background-color: cyan;
+}
+#send {
+  background: radial-gradient(navy, cyan);
 }
